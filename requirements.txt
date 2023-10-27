@@ -18,7 +18,7 @@ cffi==1.11.4
 chardet==3.0.4
 click==6.7
 contextlib2==0.5.5
-cryptography==2.3
+cryptography==41.0.5
 decorator==4.2.1
 enum34==1.1.6
 factory-boy==2.10.0
@@ -105,4 +105,4 @@ uritemplate==3.0.0
 urllib3==1.25.2
 vine==1.2.0
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug==3.0.1
